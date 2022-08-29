@@ -27,10 +27,12 @@ def textgame():
             pass
             tracker.append("bright")
             input("Where will you go?")  # If player moves to the left
-            
-            
-            
-    
+    elif room == "w": #If player moves forward
+        input("You enter a room, and there is a door with a white light outlining the door. Continue?")
+        if input == "yes":
+            print("You made it out!")
+        else: 
+            print("You died from starvation.")
 
 
     
