@@ -1,0 +1,19 @@
+let users move through rooms based on user input and get descriptions of each room.
+establish directions, rack how far user moved, print out a description.
+also set limits on how far user can move
+
+create if..else loops.
+how to track rooms?
+
+using a list to track rooms, append to list when room is entered.
+constantly keep list printed if user wants to see previous rooms.
+use if..else loops to take user input and track rooms
+
+
+
+
+
+
+
+
+
